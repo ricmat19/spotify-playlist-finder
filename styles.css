@@ -1,0 +1,22 @@
+#app{
+    display: grid;
+    justify-content: center;
+}
+
+.modal{
+    padding: 10px;
+    overflow-wrap: break-word;
+}
+
+.playlist{
+    margin: 5px;
+}
+
+.card{
+    display: grid;
+    width: 200px;
+    margin: 10px;
+    padding: 50px;
+    border: black 2px solid;
+    text-align: center;
+}
